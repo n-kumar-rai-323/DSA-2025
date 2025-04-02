@@ -6,7 +6,7 @@ public class problem {
             arr[i] = arr[i] * factor;
         }
     }
-    public static void main(String[] args) {
+    public static void main(Stringpr[] args) {
     // Problem 1: Array Scaling
     // Create a method that takes an integer array and a scaling factor as input.
     // The method should multiply each element of the array by the scaling factor.

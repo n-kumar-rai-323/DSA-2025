@@ -8,7 +8,7 @@ public class creating {
             studentMark[i] =studentMark[i] + 1;
         }
     }
-    public static void main(String[] args) {
+    public static void main(Stringpr[] args) {
      
        int studentMark[]={97,98,99};
        update(studentMark);
